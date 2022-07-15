@@ -82,6 +82,9 @@ export function SignIn() {
                     name="twitch"
                     size={20}
                     color={theme.colors.white}
+                    style={{
+                      marginRight: "1px",
+                    }}
                   />
                 )}
               </SignInButtonIcon>
